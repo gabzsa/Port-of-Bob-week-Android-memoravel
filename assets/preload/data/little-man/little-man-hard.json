@@ -16523,9 +16523,10 @@
 			}
 		],
 		"player2": "little-man",
+		"mania": 3,
 		"player3": null,
 		"song": "little-man",
-		"stage": "ron_street",
+		"stage": "ron",
 		"validScore": true,
 		"sections": 0,
 		"needsVoices": true,
