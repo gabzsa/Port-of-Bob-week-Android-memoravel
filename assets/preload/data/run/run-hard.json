@@ -15606,9 +15606,10 @@
 				"mustHitSection": true
 			}
 		],
+		"mania": 3,
 		"player3": null,
 		"song": "run",
-		"stage": "hell",
+		"stage": "run",
 		"validScore": true,
 		"sections": 0,
 		"needsVoices": true,

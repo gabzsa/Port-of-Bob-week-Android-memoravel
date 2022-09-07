@@ -6022,9 +6022,10 @@
 			}
 		],
 		"player2": "hellbob",
+		"mania": 3,
 		"player3": null,
 		"song": "run",
-		"stage": "stage",
+		"stage": "run",
 		"validScore": true,
 		"sections": 0,
 		"needsVoices": true,
